@@ -1,0 +1,7 @@
+name: Core
+main: com.akaiha.core.Core
+version: 0.0.1
+author: Akaiha
+load: STARTUP
+prefix: Core
+description: Core Server Side Plugin
